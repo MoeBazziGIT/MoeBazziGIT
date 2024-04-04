@@ -10,6 +10,8 @@
 - no-code platforms 🚀
 - task automation tools (e.g. Zapier) ⚙️
 
+This is my portfolio of work, but you can also check [my resume](https://drive.google.com/file/d/1WSbhIR_SgNT99oh9NCXvE-hMFehp4C4U/view?usp=sharing) for more details.
+
 ### Most Recent Work Experience 👨‍🏫
 
 <table>

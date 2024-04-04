@@ -1,14 +1,14 @@
 ## 👋 Hi there, I am Moe
 ### ✨ Empowering Through Software
 #### I'm deeply passionate about crafting tools that give people superpowers through software. These tools, which I dedicate my time to building or contemplating, span various areas such as:
-🌐 web browsers and tab managers <br/>
-🖥️ desktop window managers <br/>
-🧩 web browser extensions <br/>
-🔗 platform integration and extensibility frameworks (e.g. iOS share sheet, Web Extension API) <br/>
+🌐 Web browsers and tab managers <br/>
+🖥️ Desktop window managers <br/>
+🧩 Web browser extensions <br/>
+🔗 Platform integration and extensibility frameworks (e.g. iOS share sheet, Web Extension API) <br/>
 🤖 AI agents for general computing tasks <br/>
-📌 digital artifact capturing (i.e. web clippers, bookmarks) <br/>
-🎮 multiplayer applications <br/>
-🚀 no-code platforms <br/>
+📌 Digital artifact capturing (i.e. web clippers, bookmarks) <br/>
+🎮 Multiplayer applications <br/>
+🚀 No-code platforms <br/>
 
 _Note: This is my portfolio, but you can also find [my resume here](https://drive.google.com/file/d/1WSbhIR_SgNT99oh9NCXvE-hMFehp4C4U/view?usp=sharing) for more details._
 

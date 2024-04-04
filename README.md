@@ -26,10 +26,14 @@ _Note: This is my portfolio of work, but you can also find [my resume here](http
   </tr>
   <tr align="center">
     <td valign="top" width="50%">
-      <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/0ca8f16a-ccb4-452a-8abc-f934ca6e3121" alt="SigmaOS" width="100%">
+      <a href="https://www.sigmaos.com">
+        <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/0ca8f16a-ccb4-452a-8abc-f934ca6e3121" alt="SigmaOS" width="100%">
+      </a>
     </td>
     <td valign="top" width="50%">
-      <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/abb43ae1-2bee-4df8-ba00-b4b7a6d0432b" alt="Wove" width="100%" />
+      <a href="https://www.wove.com">
+        <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/abb43ae1-2bee-4df8-ba00-b4b7a6d0432b" alt="Wove" width="100%" />
+      </a>
     </td>
   </tr>
 </table>
@@ -56,13 +60,19 @@ My passion for innovation is reflected in my side projects, which are browser ex
   </tr>
   <tr align="center">
     <td valign="top" width="33%">
-      <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/63a16b60-4d4e-4d57-91c0-6331b8c6bb0f" alt="Tidy Tabs logo" width="100%">
+      <a href="https://chrome.google.com/webstore/detail/tidy-tab-groups/fohgbkobjdckaapjimleemkolchkmebf">
+        <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/63a16b60-4d4e-4d57-91c0-6331b8c6bb0f" alt="Tidy Tabs logo" width="100%">
+      </a>
     </td>
     <td valign="top" width="33%">
-      <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/9f6dee48-da5e-4522-87da-0de20c0f8718" alt="Magic Drop screenshot" width="100%" />
+      <a href="https://chrome.google.com/webstore/detail/magic-drop/ogbbepddobacadohbfbpmhjomfjmbken">
+        <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/9f6dee48-da5e-4522-87da-0de20c0f8718" alt="Magic Drop screenshot" width="100%" />
+      </a>
     </td>
     <td valign="top" width="33%">
-      <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/cbfe7eab-44a3-43f9-a11a-ecf3064aa08a" alt="Dropkit screenshot" width="100%">
+      <a href="https://chrome.google.com/webstore/detail/dropkit/kadepengabfaclbkcjpdkmifloalhddcn">
+        <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/cbfe7eab-44a3-43f9-a11a-ecf3064aa08a" alt="Dropkit screenshot" width="100%">
+      <a/>
     </td>
   </tr>
 </table>

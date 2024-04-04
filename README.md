@@ -1,5 +1,6 @@
 ## 👋 Hi there, I am Moe
-### ✨ I love giving people superpowers using tools I am passionate about building, such as..
+### ✨ Empowering Through Software
+#### I'm deeply passionate about crafting tools that give people superpowers through software. These tools, which I dedicate my time to building or contemplating, span various areas such as:
 🌐 web browsers and tab managers <br/>
 🖥️ desktop window managers <br/>
 🧩 web browser extensions <br/>

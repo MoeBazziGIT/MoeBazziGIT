@@ -3,7 +3,7 @@
 🌐 web browsers and tab managers <br/>
 🖥️ desktop window managers <br/>
 🧩 web browser extensions <br/>
-🔗 platform integration and extensibility frameworks (e.g. iOS share sheet) <br/>
+🔗 platform integration and extensibility frameworks (e.g. iOS share sheet, Web Extension API) <br/>
 🤖 AI agents for general computing tasks <br/>
 📌 digital artifact capturing (i.e. web clippers, bookmarks) <br/>
 🎮 multiplayer applications <br/>

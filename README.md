@@ -34,13 +34,11 @@ _Note: You can also view [my resume here](https://drive.google.com/file/d/1WSbhI
     </td>
     <td valign="top" width="50%">
       <a href="https://www.wove.com">
-        <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/abb43ae1-2bee-4df8-ba00-b4b7a6d0432b" alt="Wove" width="100%" />
+        <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/f83a0ce6-3dda-43ae-b33e-acde7e9e68cd" alt="Wove" width="100%" />
       </a>
     </td>
   </tr>
 </table>
-
-
 
 <br />
 

@@ -1,9 +1,9 @@
 ### Hi there, I am Moe 👋 
 #### My mission is to give people superpowers using software I am passionate about building, such as...
 🌐 web browsers and tab managers <br/>
-🖥️ operating system window managers <br/>
+🖥️ desktop window managers <br/>
 🧩 web browser extensions <br/>
-🔗 platform integration and extensibility (e.g. iOS share sheet) <br/>
+🔗 platform integration and extensibility frameworks (e.g. iOS share sheet) <br/>
 🤖 AI agents for general computing tasks <br/>
 📌 digital artifact capturing (i.e. web clippers, bookmarks) <br/>
 🎮 multiplayer applications <br/>
@@ -18,7 +18,7 @@ _Note: This is my portfolio of work, but you can also find [my resume here](http
   <tr align="center">
     <td valign="top" width="50%">
       <h3><a href="https://www.sigmaos.com"><i>SigmaOS Inc</i></a></h3>
-      <h4>Led the development of SigmaOS’s web and Chrome extension platform, utilizing the WebKit browser engine.</h4>
+      <h4>Led the development of SigmaOS’s web and web extension platform, utilizing the WebKit browser engine.</h4>
     </td>
     <td valign="top" width="50%">
       <h3><a href="https://www.wove.com"><i>Wove Inc</i></a></h3>

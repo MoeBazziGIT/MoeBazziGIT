@@ -29,7 +29,7 @@ _Note: You can also view [my resume here](https://drive.google.com/file/d/1WSbhI
   <tr align="center">
     <td valign="top" width="50%">
       <a href="https://www.sigmaos.com">
-        <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/0ca8f16a-ccb4-452a-8abc-f934ca6e3121" alt="SigmaOS" width="100%">
+        <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/0a3865d3-06ca-4f28-8534-8cd63d188dad" alt="SigmaOS" width="100%">
       </a>
     </td>
     <td valign="top" width="50%">
@@ -39,6 +39,8 @@ _Note: You can also view [my resume here](https://drive.google.com/file/d/1WSbhI
     </td>
   </tr>
 </table>
+
+
 
 <br />
 

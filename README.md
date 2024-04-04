@@ -19,11 +19,11 @@ _Note: You can also view [my resume here](https://drive.google.com/file/d/1WSbhI
   <tr align="center">
     <td valign="top" width="50%">
       <h3><a href="https://www.sigmaos.com"><i>SigmaOS Inc</i></a></h3>
-      <h4>Led the development of SigmaOS’s web and web extension platform, utilizing the WebKit browser engine.</h4>
+      <h4>Led the development of SigmaOS's web and extension platforms, utilizing the **WebKit browser engine**.</h4>
     </td>
     <td valign="top" width="50%">
       <h3><a href="https://www.wove.com"><i>Wove Inc</i></a></h3>
-      <h4>Developed React UI components based on mockup designs, keeping the designer's vision while maintaining a high-performant and interactive UI.</h4>
+      <h4>Specialized in translating app designs into highly performant and interactive **React UI** components, aligning closely with the original vision.</h4>
     </td>
   </tr>
   <tr align="center">
@@ -43,21 +43,21 @@ _Note: You can also view [my resume here](https://drive.google.com/file/d/1WSbhI
 <br />
 
 ### 🚀 Live Passion Projects
-My passion for innovation is reflected in my side projects, which are browser extensions designed to enhance user productivity and interaction within the web environment. These aren't unicorn startups by any means, but having a (humbling) few hundred users across these projects was plenty enough to teach me about product management.
+My passion for innovation is reflected in my side projects. I develop and maintain three browser extensions designed to enhance user productivity and interaction within the web environment. These projects, while not unicorn startups, have attracted a modest but dedicated user base of a few hundred users, enough to provide invaluable lessons in product management
 
 <table>
   <tr align="center">
     <td valign="top" width="33%">
       <h3><a href="https://chrome.google.com/webstore/detail/tidy-tab-groups/fohgbkobjdckaapjimleemkolchkmebf"><i>Tidy Tabs</i></a></h3>
-      <h4>A tab manager focused on eliminating tab clutter.</h4>
+      <h4>A tab manager focused on improving multi-tasking efficiency and eliminating tab clutter.</h4>
     </td>
     <td valign="top" width="33%">
       <h3><a href="https://chrome.google.com/webstore/detail/magic-drop/ogbbepddobacadohbfbpmhjomfjmbken"><i>Magic Drop</i></a></h3>
-      <h4>Enables direct drag and drop of images from one tab to another</h4>
+      <h4>Facilitates seamless drag-and-drop of images across browser tabs.</h4>
     </td>
     <td valign="top" width="33%">
       <h3><a href="https://chromewebstore.google.com/detail/dropkit/kadepengabfaclbkcjpdkmifloalhddc"><i>Dropkit</i></a></h3>
-      <h4>A file manager and annotation tool tailored for the web browser</h4>
+      <h4>A comprehensive file manager and annotation tool integrated within the browser.</h4>
     </td>
   </tr>
   <tr align="center">

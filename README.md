@@ -6,7 +6,6 @@
 - platform integration and extensibility (e.g. iOS share sheet) 🔗
 - AI agents for general computing tasks 🤖
 - digital artifact capturing (i.e. web clippers, bookmarks) 📌
-- web frameworks/libraries 🛠️
 - multiplayer applications 🎮
 - no-code platforms 🚀
 - task automation tools (e.g. Zapier) ⚙️

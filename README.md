@@ -14,7 +14,7 @@ _Note: You can also view [my resume here](https://drive.google.com/file/d/1WSbhI
 
 <br/>
 
-### 👨‍🏫 Most Recent Work Experience
+### 💼 Most Recent Work Experience
 <table>
   <tr align="center">
     <td valign="top" width="50%">
@@ -42,7 +42,7 @@ _Note: You can also view [my resume here](https://drive.google.com/file/d/1WSbhI
 
 <br />
 
-### 👨‍💻 Live Passion Projects
+### 🚀 Live Passion Projects
 My passion for innovation is reflected in my side projects, which are browser extensions designed to enhance user productivity and interaction within the web environment. These aren't unicorn startups by any means, but having a (humbling) few hundred users across these projects was plenty enough to teach me about product management.
 
 <table>

@@ -1,5 +1,5 @@
-### Hi there, I am Moe 👋 
-#### My mission is to give people superpowers using software I am passionate about building, such as...
+## Hi there, I am Moe 👋
+### I love giving people superpowers using tools I am passionate about building, such as..
 🌐 web browsers and tab managers <br/>
 🖥️ desktop window managers <br/>
 🧩 web browser extensions <br/>

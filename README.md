@@ -77,4 +77,6 @@ My passion for innovation is reflected in my side projects, which are browser ex
   </tr>
 </table>
 
+<br />
+
 _Note: This is my portfolio, but you can also find my resume here for more details._

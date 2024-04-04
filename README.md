@@ -54,7 +54,7 @@ My passion for innovation is reflected in my side projects, which are browser ex
       <h4>Enables direct drag and drop of images from one tab to another</h4>
     </td>
     <td valign="top" width="33%">
-      <h3><a href="https://chrome.google.com/webstore/detail/dropkit/kadepengabfaclbkcjpdkmifloalhddcn"><i>Dropkit</i></a></h3>
+      <h3><a href="https://chromewebstore.google.com/detail/dropkit/kadepengabfaclbkcjpdkmifloalhddc"><i>Dropkit</i></a></h3>
       <h4>A file manager and annotation tool tailored for the web browser</h4>
     </td>
   </tr>
@@ -70,7 +70,7 @@ My passion for innovation is reflected in my side projects, which are browser ex
       </a>
     </td>
     <td valign="top" width="33%">
-      <a href="https://chrome.google.com/webstore/detail/dropkit/kadepengabfaclbkcjpdkmifloalhddcn">
+      <a href="https://chromewebstore.google.com/detail/dropkit/kadepengabfaclbkcjpdkmifloalhddc">
         <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/cbfe7eab-44a3-43f9-a11a-ecf3064aa08a" alt="Dropkit screenshot" width="100%">
       <a/>
     </td>

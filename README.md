@@ -19,11 +19,11 @@ _Note: You can also view [my resume here](https://drive.google.com/file/d/1WSbhI
   <tr align="center">
     <td valign="top" width="50%">
       <h3><a href="https://www.sigmaos.com"><i>SigmaOS Inc</i></a></h3>
-      <h4>Led the development of SigmaOS's web and extension platforms, utilizing the **WebKit browser engine**.</h4>
+      <h4>Led the development of SigmaOS's web and extension platforms, utilizing the <strong>WebKit browser engine</strong>strong>.</h4>
     </td>
     <td valign="top" width="50%">
       <h3><a href="https://www.wove.com"><i>Wove Inc</i></a></h3>
-      <h4>Specialized in translating app designs into highly performant and interactive **React UI** components, aligning closely with the original vision.</h4>
+      <h4>Specialized in translating app designs into highly performant and interactive <strong>React UI components</strong>strong>, aligning closely with the original vision.</h4>
     </td>
   </tr>
   <tr align="center">

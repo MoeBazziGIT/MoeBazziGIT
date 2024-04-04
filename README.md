@@ -1,4 +1,4 @@
-## 👋 Hi there, I am Moe
+## Hi there, I am Moe👋
 ### I'm deeply passionate about crafting tools that give people superpowers through software. These tools, which I dedicate my time to building or contemplating, span various areas such as:
 🌐 Web browsers and tab managers <br/>
 🖥️ Desktop window managers <br/>

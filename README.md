@@ -33,3 +33,34 @@
     </td>
   </tr>
 </table>
+
+### Live Passion Projects 👨‍💻
+My passion for innovation is reflected in my side projects, which are browser extensions designed to enhance user productivity and interaction within the web environment. These projects underscore my ability to lead and execute projects significantly improving user experience and interface design.
+
+<table>
+  <tr align="center">
+    <td valign="top" width="33%">
+      <h3><a href="https://chrome.google.com/webstore/detail/tidy-tab-groups/fohgbkobjdckaapjimleemkolchkmebf"><i>Tidy Tabs</i></a></h3>
+      <h4>A tab manager focused on eliminating tab clutter.</h4>
+    </td>
+    <td valign="top" width="33%">
+      <h3><a href="https://chrome.google.com/webstore/detail/magic-drop/ogbbepddobacadohbfbpmhjomfjmbken"><i>Magic Drop</i></a></h3>
+      <h4>Enables direct drag and drop of images from one tab to another</h4>
+    </td>
+    <td valign="top" width="33%">
+      <h3><a href="https://chrome.google.com/webstore/detail/dropkit/kadepengabfaclbkcjpdkmifloalhddcn"><i>Dropkit</i></a></h3>
+      <h4>A file manager and annotation tool tailored for the web browser</h4>
+    </td>
+  </tr>
+  <tr align="center">
+    <td valign="top" width="33%">
+      <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/63a16b60-4d4e-4d57-91c0-6331b8c6bb0f" alt="Tidy Tabs logo" width="100%">
+    </td>
+    <td valign="top" width="33%">
+      <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/9f6dee48-da5e-4522-87da-0de20c0f8718" alt="Magic Drop screenshot" width="100%" />
+    </td>
+    <td valign="top" width="33%">
+      <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/cbfe7eab-44a3-43f9-a11a-ecf3064aa08a" alt="Dropkit screenshot" width="100%">
+    </td>
+  </tr>
+</table>

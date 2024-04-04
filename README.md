@@ -1,14 +1,14 @@
 ### Hi there, I am Moe 👋 
 #### My mission is to give people superpowers using software I am passionate about building, such as...
-- web browsers and tab managers 🌐
-- operating system window managers 🖥️
-- web browser extensions 🧩
-- platform integration and extensibility (e.g. iOS share sheet) 🔗
-- AI agents for general computing tasks 🤖
-- digital artifact capturing (i.e. web clippers, bookmarks) 📌
-- multiplayer applications 🎮
-- no-code platforms 🚀
-- task automation tools (e.g. Zapier) ⚙️
+🌐 web browsers and tab managers <br/>
+🖥️ operating system window managers <br/>
+🧩 web browser extensions <br/>
+🔗 platform integration and extensibility (e.g. iOS share sheet) <br/>
+🤖 AI agents for general computing tasks <br/>
+📌 digital artifact capturing (i.e. web clippers, bookmarks) <br/>
+🎮 multiplayer applications <br/>
+🚀 no-code platforms <br/>
+⚙️ task automation tools (e.g. Zapier) <br/>
 
 _Note: This is my portfolio of work, but you can also find [my resume here](https://drive.google.com/file/d/1WSbhIR_SgNT99oh9NCXvE-hMFehp4C4U/view?usp=sharing) for more details._
 

@@ -49,7 +49,7 @@ My passion for innovation is reflected in my side projects. I develop and mainta
   <tr align="center">
     <td valign="top" width="50%">
       <h3><a href="https://chrome.google.com/webstore/detail/tidy-tab-groups/fohgbkobjdckaapjimleemkolchkmebf"><i>Tidy Tabs</i></a></h3>
-      <p>A tab manager focused on improving multi-tasking and eliminating tab clutter.</p>
+      <p>A tab manager that improves multi-tasking and eliminates tab clutter.</p>
     </td>
     <td valign="top" width="50%">
       <h3><a href="https://chrome.google.com/webstore/detail/magic-drop/ogbbepddobacadohbfbpmhjomfjmbken"><i>Magic Drop</i></a></h3>

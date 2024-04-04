@@ -20,7 +20,7 @@
     </td>
     <td valign="top" width="50%">
       <h3><a href="https://www.wove.com"><i>Wove Inc</i></a></h3>
-      <h4>Seamlessly developed app designs into React UI components..</h4>
+      <h4>Developed React UI components based on app designs, keeping the designer's vision while maintaining a high-performant UI.</h4>
     </td>
   </tr>
   <tr align="center">

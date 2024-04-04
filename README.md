@@ -9,7 +9,6 @@
 📌 digital artifact capturing (i.e. web clippers, bookmarks) <br/>
 🎮 multiplayer applications <br/>
 🚀 no-code platforms <br/>
-⚙️ task automation tools (e.g. Zapier) <br/>
 
 _Note: This is my portfolio, but you can also find [my resume here](https://drive.google.com/file/d/1WSbhIR_SgNT99oh9NCXvE-hMFehp4C4U/view?usp=sharing) for more details._
 

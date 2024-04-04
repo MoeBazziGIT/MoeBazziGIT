@@ -34,7 +34,8 @@ _Note: This is my portfolio of work, but you can also find [my resume here](http
   </tr>
 </table>
 
-<br/>
+<br />
+
 ### 👨‍💻 Live Passion Projects
 My passion for innovation is reflected in my side projects, which are browser extensions designed to enhance user productivity and interaction within the web environment. These aren't unicorn startups by any means, but having a (humbling) few hundred users across these projects was plenty enough to teach me about product management.
 

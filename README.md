@@ -35,7 +35,7 @@
 </table>
 
 ### Live Passion Projects 👨‍💻
-My passion for innovation is reflected in my side projects, which are browser extensions designed to enhance user productivity and interaction within the web environment. These projects underscore my ability to lead and execute projects significantly improving user experience and interface design.
+My passion for innovation is reflected in my side projects, which are browser extensions designed to enhance user productivity and interaction within the web environment. These aren't unicorn startups by any means, but having a (humbling) few hundred users across these projects was plenty enough to teach me about product management.
 
 <table>
   <tr align="center">

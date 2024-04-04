@@ -59,12 +59,12 @@ My passion for innovation is reflected in my side projects. I develop and mainta
   <tr align="center">
     <td valign="top" width="50%">
       <a href="https://chrome.google.com/webstore/detail/tidy-tab-groups/fohgbkobjdckaapjimleemkolchkmebf">
-        <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/63a16b60-4d4e-4d57-91c0-6331b8c6bb0f" alt="Tidy Tabs logo" width="100%">
+        <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/a1059ccf-079b-4f72-9fcb-8a83a10e58cf" alt="Tidy Tabs logo" width="100%">
       </a>
     </td>
     <td valign="top" width="50%">
       <a href="https://chrome.google.com/webstore/detail/magic-drop/ogbbepddobacadohbfbpmhjomfjmbken">
-        <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/9f6dee48-da5e-4522-87da-0de20c0f8718" alt="Magic Drop screenshot" width="100%"/>
+        <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/6e1b3a24-5cc5-4ed4-8186-0848855b48cd" alt="Magic Drop screenshot" width="100%"/>
       </a>
     </td>
   </tr>

@@ -10,7 +10,7 @@
 🎮 Multiplayer applications <br/>
 🚀 No-code platforms <br/>
 
-_Note: You can also check out [my resume here](https://drive.google.com/file/d/1WSbhIR_SgNT99oh9NCXvE-hMFehp4C4U/view?usp=sharing)._
+_Note: You can also view [my resume here](https://drive.google.com/file/d/1WSbhIR_SgNT99oh9NCXvE-hMFehp4C4U/view?usp=sharing)._
 
 ### 👨‍🏫 Most Recent Work Experience
 <table>
@@ -79,4 +79,4 @@ My passion for innovation is reflected in my side projects, which are browser ex
 
 <br />
 
-_Note: You can also check out [my resume here](https://drive.google.com/file/d/1WSbhIR_SgNT99oh9NCXvE-hMFehp4C4U/view?usp=sharing)._
+_Note: You can also view [my resume here](https://drive.google.com/file/d/1WSbhIR_SgNT99oh9NCXvE-hMFehp4C4U/view?usp=sharing)._

@@ -47,36 +47,40 @@ My passion for innovation is reflected in my side projects. I develop and mainta
 
 <table>
   <tr align="center">
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <h3><a href="https://chrome.google.com/webstore/detail/tidy-tab-groups/fohgbkobjdckaapjimleemkolchkmebf"><i>Tidy Tabs</i></a></h3>
       <p>A tab manager focused on improving multi-tasking efficiency and eliminating tab clutter.</p>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <h3><a href="https://chrome.google.com/webstore/detail/magic-drop/ogbbepddobacadohbfbpmhjomfjmbken"><i>Magic Drop</i></a></h3>
       <p>Facilitates seamless drag-and-drop of images across browser tabs.</p>
     </td>
-    <td valign="top" width="33%">
-      <h3><a href="https://chromewebstore.google.com/detail/dropkit/kadepengabfaclbkcjpdkmifloalhddc"><i>Dropkit</i></a></h3>
-      <p>A comprehensive file manager and annotation tool integrated within the browser.</p>
-    </td>
   </tr>
   <tr align="center">
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <a href="https://chrome.google.com/webstore/detail/tidy-tab-groups/fohgbkobjdckaapjimleemkolchkmebf">
         <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/63a16b60-4d4e-4d57-91c0-6331b8c6bb0f" alt="Tidy Tabs logo" width="100%">
       </a>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <a href="https://chrome.google.com/webstore/detail/magic-drop/ogbbepddobacadohbfbpmhjomfjmbken">
-        <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/9f6dee48-da5e-4522-87da-0de20c0f8718" alt="Magic Drop screenshot" width="100%" />
+        <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/9f6dee48-da5e-4522-87da-0de20c0f8718" alt="Magic Drop screenshot" width="100%"/>
       </a>
     </td>
+  </tr>
+</table>
+<table>
+  <tr align="center">
     <td valign="top" width="33%">
+      <h3><a href="https://chromewebstore.google.com/detail/dropkit/kadepengabfaclbkcjpdkmifloalhddc"><i>Dropkit</i></a></h3>
+      <p>A comprehensive file manager and annotation tool integrated within the browser.</p>
+    </td>
+        <td valign="top" width="67%">
       <a href="https://chromewebstore.google.com/detail/dropkit/kadepengabfaclbkcjpdkmifloalhddc">
         <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/cbfe7eab-44a3-43f9-a11a-ecf3064aa08a" alt="Dropkit screenshot" width="100%">
       <a/>
     </td>
-  </tr>
+      </tr>
 </table>
 
 <br />

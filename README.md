@@ -19,11 +19,11 @@ _Note: You can also view [my resume here](https://drive.google.com/file/d/1WSbhI
   <tr align="center">
     <td valign="top" width="50%">
       <h3><a href="https://www.sigmaos.com"><i>SigmaOS Inc</i></a></h3>
-      <h4>Led the development of SigmaOS's web and extension platforms, utilizing the <strong>WebKit browser engine</strong>strong>.</h4>
+      <p>Led the development of SigmaOS's web and extension platforms, utilizing the <strong>WebKit browser engine</strong.</p>
     </td>
     <td valign="top" width="50%">
       <h3><a href="https://www.wove.com"><i>Wove Inc</i></a></h3>
-      <h4>Specialized in translating app designs into highly performant and interactive <strong>React UI components</strong>strong>, aligning closely with the original vision.</h4>
+      <p>Specialized in translating app designs into highly performant and interactive <strong>React UI components</strong>, aligning closely with the original vision.</p>
     </td>
   </tr>
   <tr align="center">
@@ -49,15 +49,15 @@ My passion for innovation is reflected in my side projects. I develop and mainta
   <tr align="center">
     <td valign="top" width="33%">
       <h3><a href="https://chrome.google.com/webstore/detail/tidy-tab-groups/fohgbkobjdckaapjimleemkolchkmebf"><i>Tidy Tabs</i></a></h3>
-      <h4>A tab manager focused on improving multi-tasking efficiency and eliminating tab clutter.</h4>
+      <p>A tab manager focused on improving multi-tasking efficiency and eliminating tab clutter.</p>
     </td>
     <td valign="top" width="33%">
       <h3><a href="https://chrome.google.com/webstore/detail/magic-drop/ogbbepddobacadohbfbpmhjomfjmbken"><i>Magic Drop</i></a></h3>
-      <h4>Facilitates seamless drag-and-drop of images across browser tabs.</h4>
+      <p>Facilitates seamless drag-and-drop of images across browser tabs.</p>
     </td>
     <td valign="top" width="33%">
       <h3><a href="https://chromewebstore.google.com/detail/dropkit/kadepengabfaclbkcjpdkmifloalhddc"><i>Dropkit</i></a></h3>
-      <h4>A comprehensive file manager and annotation tool integrated within the browser.</h4>
+      <p>A comprehensive file manager and annotation tool integrated within the browser.</p>
     </td>
   </tr>
   <tr align="center">

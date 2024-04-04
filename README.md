@@ -12,6 +12,8 @@
 
 _Note: You can also view [my resume here](https://drive.google.com/file/d/1WSbhIR_SgNT99oh9NCXvE-hMFehp4C4U/view?usp=sharing)._
 
+<br/>
+
 ### 👨‍🏫 Most Recent Work Experience
 <table>
   <tr align="center">

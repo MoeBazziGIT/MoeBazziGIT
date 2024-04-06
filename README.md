@@ -74,7 +74,7 @@ My passion for innovation is reflected in my side projects. I develop and mainta
       <h3><a href="https://chromewebstore.google.com/detail/dropkit/kadepengabfaclbkcjpdkmifloalhddc"><i>Dropkit</i></a></h3>
       <p>A comprehensive file manager and annotation tool integrated within the browser.</p>
     </td>
-    <td valign="top" width="67%">
+    <td valign="center" width="67%">
       <a href="https://chromewebstore.google.com/detail/dropkit/kadepengabfaclbkcjpdkmifloalhddc">
         <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/8f28486b-78c0-428f-abb6-9260a1faabad" alt="Dropkit screenshot" width="100%">
       <a/>

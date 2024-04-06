@@ -18,7 +18,7 @@ _Note: You can also view [my resume here](https://drive.google.com/file/d/1WSbhI
   <tr align="center">
     <td valign="top" width="50%">
       <h3><a href="https://www.sigmaos.com"><i>SigmaOS Inc</i></a></h3>
-      <p>Led the development of SigmaOS's web and extension platforms, utilizing the <strong>WebKit browser engine</strong.</p>
+      <p>Led the development of SigmaOS's web and extension platform, utilizing the <strong>WebKit browser engine</strong.</p>
     </td>
     <td valign="top" width="50%">
       <h3><a href="https://www.wove.com"><i>Wove Inc</i></a></h3>

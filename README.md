@@ -42,7 +42,7 @@ _Note: You can also view [my resume here](https://drive.google.com/file/d/1WSbhI
 <br />
 
 ### 🚀 Live Passion Projects
-My passion for innovation is reflected in my side projects. I develop and maintain three browser extensions designed to enhance user productivity and interaction within the web environment. These projects, while not unicorn startups, have attracted a modest but dedicated user base of a few hundred users, enough to provide invaluable lessons in product management.
+My passion for innovation is reflected in my side projects. I develop and maintain three browser extensions designed to enhance user productivity and interaction within the web environment. These projects, while not unicorn startups, have attracted a modest but dedicated user base of a few hundred users, enough to provide invaluable lessons in end-to-end product development.
 
 <table>
   <tr align="center">

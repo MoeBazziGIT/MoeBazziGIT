@@ -84,4 +84,16 @@ My passion for innovation is reflected in my side projects. I develop and mainta
 
 <br />
 
+### 🖼️ Project Gallery
+
+<details>
+  <summary><h1>Dropkit</h1></summary>
+    
+  <div width="50px">
+    <video src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/64940ac4-0cb5-4939-a67c-560131e1c5f7" width="50px" height="50vh" />
+  </div>
+</details>
+
+<br />
+
 _Note: You can also view [my resume here](https://drive.google.com/file/d/1WSbhIR_SgNT99oh9NCXvE-hMFehp4C4U/view?usp=sharing)._

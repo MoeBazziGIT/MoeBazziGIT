@@ -9,12 +9,12 @@ _Note: You can also view [my resume here](https://drive.google.com/file/d/1WSbhI
 <table>
   <tr align="center">
     <td valign="top" width="50%">
-      <h3><a href="https://www.sigmaos.com"><i>SigmaOS Inc</i></a></h3>
+      <h3><a href="https://www.sigmaos.com"><i>SigmaOS, Inc</i></a></h3>
       <h4>Web Platform Lead Engineer</h4>
       <p>Led development of SigmaOS's Web and Chrome extension compatibility platform, enhancing the WebKit engine to improve performance and standards compliance. I implemented advanced features across the stack using C++, Swift, and JavaScript, boosting browser performance and Chrome extension compatibility.</p>
     </td>
     <td valign="top" width="50%">
-      <h3><a href="https://www.wove.com"><i>Wove Inc</i></a></h3>
+      <h3><a href="https://www.wove.com"><i>Wove, Inc</i></a></h3>
       <h4>Front-End Web Developer</h4>
       <p>Developed a library of reusable React UI components with TypeScript, accelerating development and maintaining consistent UI/UX. I translated complex Figma designs into pixel-perfect components and built a robust, timezone-safe datetime picker.</p>
     </td>

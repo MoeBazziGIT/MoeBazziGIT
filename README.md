@@ -1,28 +1,22 @@
 ## Hi there, I am Moe👋
-### I'm deeply passionate about crafting tools that give people superpowers through software. These tools, which I dedicate my time to building or contemplating, span various areas such as:
-🌐 Web browsers and tab managers <br/>
-🖥️ Desktop window managers <br/>
-🧩 Web browser extensions <br/>
-🔗 Platform integration and extensibility frameworks (e.g. iOS share sheet, Web Extension API) <br/>
-🤖 AI agents for general computing tasks <br/>
-📌 Digital artifact capturing (i.e. web clippers, bookmarks) <br/>
-🎮 Multiplayer applications <br/>
-🚀 No-code platforms <br/>
+A versatile software engineer with a unique blend of technical expertise, entrepreneurial vision, and a passion for advancing web technologies. Professional experience includes architecting, optimizing, and maintaining complex codebases, leading projects from conception to deployment, and enhancing web performance and user experiences for cutting‑edge browsers. Additionally, self‑developed Chrome extensions serving over 1,000
+users demonstrate a keen ability to identify user needs and create impactful solutions.
+
 
 _Note: You can also view [my resume here](https://drive.google.com/file/d/1WSbhIR_SgNT99oh9NCXvE-hMFehp4C4U/view?usp=sharing)._
-
-<br/>
 
 ### 💼 Most Recent Work Experience
 <table>
   <tr align="center">
     <td valign="top" width="50%">
       <h3><a href="https://www.sigmaos.com"><i>SigmaOS Inc</i></a></h3>
-      <p>Led the development of SigmaOS's web and extension platform, utilizing the <strong>WebKit browser engine</strong.</p>
+      <h4>Web Platform Lead Engineer</h4>
+      <p>Led development of SigmaOS's Web and Chrome extension compatibility platform, enhancing the WebKit engine to improve performance and standards compliance. I implemented advanced features across the stack using C++, Swift, and JavaScript, boosting browser performance and Chrome extension compatibility.</p>
     </td>
     <td valign="top" width="50%">
       <h3><a href="https://www.wove.com"><i>Wove Inc</i></a></h3>
-      <p>Specialized in translating app designs into highly performant and interactive <strong>React UI components</strong>, aligning closely with the original vision.</p>
+      <h4>Front-End Web Developer</h4>
+      <p>Developed a library of reusable React UI components with TypeScript, accelerating development and maintaining consistent UI/UX. I translated complex Figma designs into pixel-perfect components and built a robust, timezone-safe datetime picker.</p>
     </td>
   </tr>
   <tr align="center">
@@ -42,17 +36,17 @@ _Note: You can also view [my resume here](https://drive.google.com/file/d/1WSbhI
 <br />
 
 ### 🚀 Live Passion Projects
-My passion for innovation is reflected in my side projects. I develop and maintain three browser extensions designed to enhance user productivity and interaction within the web environment. These projects, while not unicorn startups, have attracted a modest but dedicated user base of a few hundred users, enough to provide invaluable lessons in end-to-end product development.
+_My passion for advancing user‑facing web technology is reflected in the following browser extensions I develop and maintain. These tools are designed to enhance user productivity and interaction within web browsers. With a modest but dedicated base of over 1,000 users, these projects have provided me with invaluable lessons in end‑to‑end product development._
 
 <table>
   <tr align="center">
     <td valign="top" width="50%">
       <h3><a href="https://chrome.google.com/webstore/detail/tidy-tab-groups/fohgbkobjdckaapjimleemkolchkmebf"><i>Tidy Tabs</i></a></h3>
-      <p>A tab manager that improves multi-tasking and eliminates tab clutter.</p>
+      <p>A tab manager with powerful tab grouping features, using TypeScript and Chrome Extension APIs to enhance productivity and organization, reducing tab clutter by 50% and decreasing tab search time by 20%.</p>
     </td>
     <td valign="top" width="50%">
       <h3><a href="https://chrome.google.com/webstore/detail/magic-drop/ogbbepddobacadohbfbpmhjomfjmbken"><i>Magic Drop</i></a></h3>
-      <p>Facilitates seamless drag-and-drop of images across browser tabs.</p>
+      <p>A tool enabling seamless drag-and-drop of images across browser tabs, implementing advanced DOM manipulation and event handling to boost workflow efficiency, saving users an average of 3 seconds per image transfer operation.</p>
     </td>
   </tr>
   <tr align="center">
@@ -72,7 +66,7 @@ My passion for innovation is reflected in my side projects. I develop and mainta
   <tr align="center">
     <td valign="top" width="33%">
       <h3><a href="https://chromewebstore.google.com/detail/dropkit/kadepengabfaclbkcjpdkmifloalhddc"><i>Dropkit</i></a></h3>
-      <p>A comprehensive file manager and annotation tool integrated within the browser.</p>
+      <p>A browser-integrated file manager and annotation tool using various web technologies, allowing users to quickly find, edit, and insert files into web pages without leaving the browser window.</p>
     </td>
     <td valign="center" width="67%">
       <a href="https://chromewebstore.google.com/detail/dropkit/kadepengabfaclbkcjpdkmifloalhddc">

@@ -41,7 +41,7 @@ _My passion for advancing user‑facing web technology is reflected in the follo
 <table>
   <tr align="center">
     <td valign="top" width="50%">
-      <h3><a href="https://chrome.google.com/webstore/detail/tidy-tab-groups/fohgbkobjdckaapjimleemkolchkmebf"><i>Tidy Tabs</i></a></h3>
+      <h3><a href="https://chrome.google.com/webstore/detail/tidy-tab-groups/fohgbkobjdckaapjimleemkolchkmebf"><i>Tidy Tab Groups</i></a></h3>
       <p>A tab manager with powerful tab grouping features, using TypeScript and Chrome Extension APIs to enhance productivity and organization, reducing tab clutter by 50% and decreasing tab search time by 20%.</p>
     </td>
     <td valign="top" width="50%">
@@ -52,7 +52,7 @@ _My passion for advancing user‑facing web technology is reflected in the follo
   <tr align="center">
     <td valign="top" width="50%">
       <a href="https://chrome.google.com/webstore/detail/tidy-tab-groups/fohgbkobjdckaapjimleemkolchkmebf">
-        <img src="https://github.com/MoeBazziGIT/MoeBazziGIT/assets/39361312/a1059ccf-079b-4f72-9fcb-8a83a10e58cf" alt="Tidy Tabs logo" width="100%">
+        <img src="https://github.com/user-attachments/assets/eb59bba5-00fe-4d70-b903-0a874a55e9d2" alt="Tidy Tab Groups logo" width="100%">
       </a>
     </td>
     <td valign="top" width="50%">
